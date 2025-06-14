@@ -46,8 +46,15 @@ This R script analyzes the spatial variability of nitrate and phosphate concentr
 # Conclusion
 The script provides a comprehensive workflow for assessing how land cover and cattle density influence water quality in Lower Saxony. By integrating spatial data, statistical modeling, and advanced visualization, it supports environmental assessment and management. The outputs facilitate understanding spatial patterns and drivers of nutrient pollution, aiding in targeted interventions.
 
+# Related Figures
+![gis1](https://github.com/user-attachments/assets/25a9df52-7093-4623-924d-bb3219158060)
+
+![gis2](https://github.com/user-attachments/assets/27f4e164-19bb-41f5-b9eb-1ba048dd8523)
 
 ![gis](https://github.com/user-attachments/assets/df85f04f-baab-414f-a430-a0db3ab1a8cb)
+
+![gis4](https://github.com/user-attachments/assets/ee957bc3-6f18-48d9-a039-143fb5764461)
+
 
 
 
